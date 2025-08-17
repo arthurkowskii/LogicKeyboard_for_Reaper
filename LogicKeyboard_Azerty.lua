@@ -1,4 +1,4 @@
--- LogicKeyboard for Reaper
+-- LogicKeyboard for Reaper (Azerty)
 -- by Arthur Kowskii
 -- free to use, please consider donation on gumroad !
 
